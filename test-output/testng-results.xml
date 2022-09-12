@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-11T22:46:42 IST" name="Default suite" finished-at="2022-09-11T22:46:51 IST" duration-ms="9064">
+  <suite started-at="2022-09-12T21:10:51 IST" name="Default suite" finished-at="2022-09-12T21:10:54 IST" duration-ms="2443">
     <groups>
     </groups>
-    <test started-at="2022-09-11T22:46:42 IST" name="Default test" finished-at="2022-09-11T22:46:51 IST" duration-ms="9064">
-      <class name="Testcases.launch">
-        <test-method signature="launchDriver()[pri:0, instance:Testcases.launch@222545dc]" started-at="2022-09-11T22:46:42 IST" name="launchDriver" finished-at="2022-09-11T22:46:51 IST" duration-ms="9029" status="PASS">
+    <test started-at="2022-09-12T21:10:51 IST" name="Default test" finished-at="2022-09-12T21:10:54 IST" duration-ms="2443">
+      <class name="Testcases.branch">
+        <test-method signature="launchChrome()[pri:0, instance:Testcases.branch@222545dc]" started-at="2022-09-12T21:10:51 IST" name="launchChrome" finished-at="2022-09-12T21:10:54 IST" duration-ms="2408" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchDriver -->
-      </class> <!-- Testcases.launch -->
+        </test-method> <!-- launchChrome -->
+      </class> <!-- Testcases.branch -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

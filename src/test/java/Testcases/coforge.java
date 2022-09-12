@@ -1,7 +1,7 @@
 package Testcases;
 
 public class coforge {
-	public void coforge() {
+	public void coforge111() {
 
 }
 }
