@@ -33,7 +33,7 @@ public class launch {
 	softAssert.assertEquals(currenturl, "https:www.coforge.com");
 	System.out.println("ok");
 	driver.quit();
-	softAssert.assertAll();
+	//softAssert.assertAll();
 	
 	
 	
